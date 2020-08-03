@@ -27,6 +27,8 @@
 - Transitions
 - Animations
 - Responsive Design
+- Writing tips
+    Flat seleectors, location based selecters when/why to use
 
 ## Javascript
 
